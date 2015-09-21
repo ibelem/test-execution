@@ -1,0 +1,32 @@
+{
+  "name": "test-execution",
+  "version": "1.0.0",
+  "description": "Test execution portal.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibelem/test-execution.git"
+  },
+    "dependencies": {
+  	"express": "latest",
+    "mongoose": "latest",
+    "passport": "latest",
+    "react-tools": "^0.13.0",
+    "request": "^2.61.0",
+    "cheerio": "^0.19.0",
+    "superagent": "^1.4.0"
+  },
+  "devDependencies": {
+    "jslint": "latest",
+    "nodemon": "latest"
+  },
+  "author": "belem",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/ibelem/test-execution/issues"
+  },
+  "homepage": "https://github.com/ibelem/test-execution#readme"
+}
