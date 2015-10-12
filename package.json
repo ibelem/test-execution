@@ -14,6 +14,12 @@
   	"express": "latest",
     "mongoose": "latest",
     "passport": "latest",
+
+    "uuid": "latest",
+    "morgan": "latest",
+    "body-parser": "latest",
+    "bcrypt-nodejs": "latest",
+
     "react-tools": "^0.13.0",
     "request": "^2.61.0",
     "cheerio": "^0.19.0",
@@ -21,10 +27,10 @@
   },
   "devDependencies": {
     "jslint": "latest",
-    "nodemon": "latest"
+    "nodemon": "^1.7.0"
   },
   "author": "belem",
-  "license": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ibelem/test-execution/issues"
   },
